@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinner API</title>
+</head>
+<body>
+    <h1>Dinner API</h1>
+
+    <h2>Predict Location</h2>
+    <form id="predict-form">
+        <label for="avg_money">Average Money (Normalized):</label>
+        <input type="number" id="avg_money" name="avg_money" required><br><br>
+        <label for="dinner_time">Dinner Time (Encoded):</label>
+        <input type="number" id="dinner_time" name="dinner_time" required><br><br>
+        <label for="variety">Variety (Encoded):</label>
+        <input type="number" id="variety" name="variety" required><br><br>
+        <button type="submit">Predict Location</button>
+    </form>
+    <p id="predict-result"></p>
+
+    <h2>Get Information</h2>
+    <form id="info-form">
+        <label for="register_number">Register Number:</label>
+        <input type="text" id="register_number" name="register_number" required><br><br>
+        <label for="date">Date (yyyy-mm-dd):</label>
+        <input type="text" id="date" name="date" required><br><br>
+        <button type="submit">Get Information</button>
+    </form>
+    <p id="info-result"></p>
+
+    <script>
+        document.getElementById("predict-form").addEventListener("submit", async function(event) {
+            event.preventDefault();
+            const avgMoney = document.getElementById("avg_money").value;
+            const dinnerTime = document.getElementById("dinner_time").value;
+            const variety = document.getElementById("variety").value;
+            const response = await fetch("/predict_location", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ avg_money: avgMoney, dinner_time: dinnerTime, variety: variety })
+            });
+            const data = await response.json();
+            document.getElementById("predict-result").innerText = "Predicted Location: " + data.predicted_location;
+        });
+
+        document.getElementById("info-form").addEventListener("submit", async function(event) {
+            event.preventDefault();
+            const registerNumber = document.getElementById("register_number").value;
+            const date = document.getElementById("date").value;
+            const response = await fetch("/get_info", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ register_number: registerNumber, date: date })
+            });
+            const data = await response.json();
+            document.getElementById("info-result").innerText = "Where they ate: " + data.where_ate + "\nAverage spent: " + data.avg_spent + "\nWhat they ate: " + data.what_ate;
+        });
+    </script>
+</body>
+</html>
+txt file

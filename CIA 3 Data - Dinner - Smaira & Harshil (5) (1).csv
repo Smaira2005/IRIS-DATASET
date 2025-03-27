@@ -1,0 +1,800 @@
+Register Number ,Name,Date ,Food Type,Location,Where in College ?,Variety,Avg money,Dinner time
+23112301,Arghya Basu,4.3,Veg,Market,Not in college,Italian,₹100-₹150,7pm-8pm
+23112302,Aryan Singhal,4.3,Non - Veg,College ,Steaming Mugs ,Chinese,₹200-₹250,6pm-7pm
+23112303,Avinash Ruthvik,4.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112305,Harshil Mishra,4.3,Non - Veg,Market,Not in college,Chinese,₹150-₹200,6pm-7pm
+23112306,Juhi Rathore,4.3,Veg,Home-Cooked,Not in college,Chinese,₹50-₹100,7pm-8pm
+23112307,Anjali Kakde,4.3,Veg,Market,Not in college,Italian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,4.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,Past Midnight
+23112310,Vishal Verma,4.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,7pm-8pm
+23112312,Shruti Mishra,4.3,Veg,Market,Not in college,Chinese,₹50-₹100,8pm-9pm
+23112313,Shubhalaxmi Sagare,4.3,Veg,Market,Not in college,Chinese,₹50-₹100,6pm-7pm
+23112314,Smaira Pandita,4.3,Non - Veg,Market,Not in college,Chinese,₹100-₹150,8pm-9pm
+23112316,Tarit Kumar Singh,4.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112317,Urvi Saran,4.3,Veg,Market,Not in college,Chinese,₹50-₹100,8pm-9pm
+23112318,Veda Yogesh Rane,4.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112320,Abhimanyu Sharma,4.3,Non - Veg,Home-Cooked,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112321,Kratik Lodha,4.3,Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112301,Arghya Basu,5.3,Non - Veg,Market,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,5.3,Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112303,Avinash Ruthvik,5.3,Veg,Market,Not in college,Chinese,₹50-₹100,Past 10pm
+23112305,Harshil Mishra,5.3,Non - Veg,Market,Not in college,Chinese,₹150-₹200,6pm-7pm
+23112306,Juhi Rathore,5.3,Veg,Market,Not in college,Chinese,₹50-₹100,Past Midnight
+23112307,Anjali Kakde,5.3,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,5.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,8pm-9pm
+23112312,Shruti Mishra,5.3,Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,5.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112314,Smaira Pandita,5.3,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,5.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,7pm-8pm
+23112317,Urvi Saran,5.3,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,6pm-7pm
+23112318,Veda Yogesh Rane,5.3,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,5.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,6pm-7pm
+23112321,Kratik Lodha,5.3,Non - Veg,College ,Cafe by the Valley,Italian,₹50-₹100,7pm-8pm
+23112301,Arghya Basu,6.3,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,8pm-9pm
+23112302,Aryan Singhal,6.3,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,Past Midnight
+23112303,Avinash Ruthvik,6.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,7pm-8pm
+23112305,Harshil Mishra,6.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112306,Juhi Rathore,6.3,Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,6pm-7pm
+23112307,Anjali Kakde,6.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,6.3,Non - Veg,College ,Chopsticks,Indian,₹50-₹100,6pm-7pm
+23112310,Vishal Verma,6.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112312,Shruti Mishra,6.3,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112313,Shubhalaxmi Sagare,6.3,Veg,Home-Cooked,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112314,Smaira Pandita,6.3,Non - Veg,Market,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112316,Tarit Kumar Singh,6.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112317,Urvi Saran,6.3,Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112318,Veda Yogesh Rane,6.3,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,Past 10pm
+23112320,Abhimanyu Sharma,6.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,6pm-7pm
+23112321,Kratik Lodha,6.3,Non - Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past Midnight
+23112301,Arghya Basu,7.3,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,9pm-10pm
+23112302,Aryan Singhal,7.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,Past 10pm
+23112303,Avinash Ruthvik,7.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,7.3,Veg,College ,Steaming Mugs ,Indian,₹200-₹250,9pm-10pm
+23112306,Juhi Rathore,7.3,Veg,College ,Cafe Concerto,Chinese,₹150-₹200,8pm-9pm
+23112307,Anjali Kakde,7.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112308,Mehuli Dutta,7.3,Non - Veg,College ,Cafe by the Valley,Italian,₹50-₹100,9pm-10pm
+23112310,Vishal Verma,7.3,Veg,Market,Not in college,Italian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,7.3,Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,7.3,Veg,Home-Cooked,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112314,Smaira Pandita,7.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112316,Tarit Kumar Singh,7.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112317,Urvi Saran,7.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,7pm-8pm
+23112318,Veda Yogesh Rane,7.3,Veg,Market,Not in college,Chinese,₹100-₹150,8pm-9pm
+23112320,Abhimanyu Sharma,7.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112321,Kratik Lodha,7.3,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,7pm-8pm
+23112301,Arghya Basu,8.3,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,8pm-9pm
+23112302,Aryan Singhal,8.3,Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112303,Avinash Ruthvik,8.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,8pm-9pm
+23112305,Harshil Mishra,8.3,Veg,College ,Cafe Concerto,Indian,₹50-₹100,6pm-7pm
+23112306,Juhi Rathore,8.3,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,8.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112308,Mehuli Dutta,8.3,Non - Veg,College ,Cafe by the Valley,Italian,₹150-₹200,9pm-10pm
+23112310,Vishal Verma,8.3,Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112312,Shruti Mishra,8.3,Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,8.3,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,7pm-8pm
+23112314,Smaira Pandita,8.3,Veg,Home-Cooked,Not in college,Chinese,₹50-₹100,Past 10pm
+23112316,Tarit Kumar Singh,8.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112317,Urvi Saran,8.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past Midnight
+23112318,Veda Yogesh Rane,8.3,Veg,Market,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112320,Abhimanyu Sharma,8.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112321,Kratik Lodha,8.3,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,9.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112302,Aryan Singhal,9.3,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,9.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112305,Harshil Mishra,9.3,Veg,College ,Chopsticks,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,9.3,Veg,College ,Cafe by the Valley,Chinese,₹150-₹200,9pm-10pm
+23112307,Anjali Kakde,9.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112308,Mehuli Dutta,9.3,Non - Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,9.3,Veg,Market,Not in college,Indian,₹200-₹250,Past 10pm
+23112312,Shruti Mishra,9.3,Veg,Market,Not in college,Chinese,₹150-₹200,7pm-8pm
+23112313,Shubhalaxmi Sagare,9.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112314,Smaira Pandita,9.3,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,9.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112317,Urvi Saran,9.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,7pm-8pm
+23112318,Veda Yogesh Rane,9.3,Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,8pm-9pm
+23112320,Abhimanyu Sharma,9.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112321,Kratik Lodha,9.3,Non - Veg,Home-Cooked,Not in college,Italian,₹200-₹250,7pm-8pm
+23112301,Arghya Basu,10.3,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112302,Aryan Singhal,10.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,6pm-7pm
+23112303,Avinash Ruthvik,10.3,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112305,Harshil Mishra,10.3,Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112306,Juhi Rathore,10.3,Veg,Market,Not in college,Chinese,₹200-₹250,8pm-9pm
+23112307,Anjali Kakde,10.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,10.3,Non - Veg,Home-Cooked,Not in college,Italian,₹150-₹200,9pm-10pm
+23112310,Vishal Verma,10.3,Non - Veg,Market,Not in college,Italian,₹50-₹100,6pm-7pm
+23112312,Shruti Mishra,10.3,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,10.3,Veg,College ,Cafe Concerto,Indian,₹200-₹250,7pm-8pm
+23112314,Smaira Pandita,10.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,Past 10pm
+23112316,Tarit Kumar Singh,10.3,Non - Veg,College ,Chopsticks,Indian,₹50-₹100,6pm-7pm
+23112317,Urvi Saran,10.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past Midnight
+23112318,Veda Yogesh Rane,10.3,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,10.3,Veg,Market,Not in college,Indian,₹50-₹100,Past 10pm
+23112321,Kratik Lodha,10.3,Non - Veg,College ,Steaming Mugs ,Indian,₹50-₹100,8pm-9pm
+23112301,Arghya Basu,11.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,11.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112303,Avinash Ruthvik,11.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112305,Harshil Mishra,11.3,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,11.3,Veg,Market,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112307,Anjali Kakde,11.3,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,11.3,Non - Veg,College ,Chopsticks,Italian,₹200-₹250,9pm-10pm
+23112310,Vishal Verma,11.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112312,Shruti Mishra,11.3,Veg,Market,Not in college,Indian,₹150-₹200,7pm-8pm
+23112313,Shubhalaxmi Sagare,11.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112314,Smaira Pandita,11.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112316,Tarit Kumar Singh,11.3,Non - Veg,Home-Cooked,Not in college,Indian,₹200-₹250,6pm-7pm
+23112317,Urvi Saran,11.3,Veg,Market,Not in college,Indian,₹150-₹200,7pm-8pm
+23112318,Veda Yogesh Rane,11.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112320,Abhimanyu Sharma,11.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past Midnight
+23112321,Kratik Lodha,11.3,Veg,College ,Chopsticks,Indian,₹100-₹150,7pm-8pm
+23112301,Arghya Basu,12.3,Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,8pm-9pm
+23112302,Aryan Singhal,12.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,6pm-7pm
+23112303,Avinash Ruthvik,12.3,Non - Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,12.3,Veg,College ,Steaming Mugs ,Indian,₹200-₹250,6pm-7pm
+23112306,Juhi Rathore,12.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,12.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,12.3,Veg,College ,Not in college,Indian,₹50-₹100,9pm-10pm
+23112310,Vishal Verma,12.3,Veg,College ,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112312,Shruti Mishra,12.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112313,Shubhalaxmi Sagare,12.3,Non - Veg,College ,Chopsticks,Indian,₹100-₹150,7pm-8pm
+23112314,Smaira Pandita,12.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,Past 10pm
+23112316,Tarit Kumar Singh,12.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112317,Urvi Saran,12.3,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,Past Midnight
+23112318,Veda Yogesh Rane,12.3,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,9pm-10pm
+23112320,Abhimanyu Sharma,12.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,Past 10pm
+23112321,Kratik Lodha,12.3,Non - Veg,College ,Cafe Concerto,Chinese,₹50-₹100,8pm-9pm
+23112301,Arghya Basu,13.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112302,Aryan Singhal,13.3,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,13.3,Veg,Home-Cooked,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,13.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112306,Juhi Rathore,13.3,Non - Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,13.3,Veg,College ,Chopsticks,Indian,₹200-₹250,9pm-10pm
+23112308,Mehuli Dutta,13.3,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,13.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112312,Shruti Mishra,13.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112313,Shubhalaxmi Sagare,13.3,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,7pm-8pm
+23112314,Smaira Pandita,13.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112316,Tarit Kumar Singh,13.3,Non - Veg,College ,Steaming Mugs ,Italian,₹100-₹150,Past Midnight
+23112317,Urvi Saran,13.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,7pm-8pm
+23112318,Veda Yogesh Rane,13.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112320,Abhimanyu Sharma,13.3,Veg,College ,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112321,Kratik Lodha,13.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112301,Arghya Basu,14.3,Non - Veg,Market,Not in college,Italian,₹150-₹200,6pm-7pm
+23112302,Aryan Singhal,14.3,Veg,College ,Steaming Mugs ,Indian,₹50-₹100,8pm-9pm
+23112303,Avinash Ruthvik,14.3,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,14.3,Non - Veg,Market,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,14.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112307,Anjali Kakde,14.3,Veg,College ,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112308,Mehuli Dutta,14.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112310,Vishal Verma,14.3,Non - Veg,College ,Cafe Concerto,Indian,₹200-₹250,Past 10pm
+23112312,Shruti Mishra,14.3,Veg,College ,Chopsticks,Indian,₹100-₹150,6pm-7pm
+23112313,Shubhalaxmi Sagare,14.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112314,Smaira Pandita,14.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,14.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112317,Urvi Saran,14.3,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,8pm-9pm
+23112318,Veda Yogesh Rane,14.3,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,14.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,8pm-9pm
+23112321,Kratik Lodha,14.3,Non - Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,9pm-10pm
+23112301,Arghya Basu,15.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,15.3,Veg,College ,Chopsticks,Indian,₹200-₹250,9pm-10pm
+23112303,Avinash Ruthvik,15.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112305,Harshil Mishra,15.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112306,Juhi Rathore,15.3,Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,Past 10pm
+23112307,Anjali Kakde,15.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,15.3,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,Past 10pm
+23112310,Vishal Verma,15.3,Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112312,Shruti Mishra,15.3,Veg,College ,Chopsticks,Indian,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,15.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112314,Smaira Pandita,15.3,Non - Veg,Market,Not in college,Chinese,₹100-₹150,8pm-9pm
+23112316,Tarit Kumar Singh,15.3,Non - Veg,College ,Steaming Mugs ,Indian,₹100-₹150,6pm-7pm
+23112317,Urvi Saran,15.3,Veg,College ,Chopsticks,Indian,₹50-₹100,7pm-8pm
+23112318,Veda Yogesh Rane,15.3,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,8pm-9pm
+23112320,Abhimanyu Sharma,15.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,Past Midnight
+23112321,Kratik Lodha,15.3,Non - Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,7pm-8pm
+23112301,Arghya Basu,16.3,Veg,Market,Not in college,Indian,₹150-₹200,8pm-9pm
+23112302,Aryan Singhal,16.3,Veg,Home-Cooked,Chopsticks,Indian,₹50-₹100,6pm-7pm
+23112303,Avinash Ruthvik,16.3,Non - Veg,Market,Home-Cooked,Indian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,16.3,Veg,College ,Chopsticks,Indian,₹200-₹250,6pm-7pm
+23112306,Juhi Rathore,16.3,Veg,College ,Cafe by the Valley,Chinese,₹150-₹200,8pm-9pm
+23112307,Anjali Kakde,16.3,Veg,Home-Cooked,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112308,Mehuli Dutta,16.3,Non - Veg,College ,Not in college,Italian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,16.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112312,Shruti Mishra,16.3,Veg,Market,Not in college,Italian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,16.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,7pm-8pm
+23112314,Smaira Pandita,16.3,Veg,Market,Not in college,Chinese,₹100-₹150,Past 10pm
+23112316,Tarit Kumar Singh,16.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112317,Urvi Saran,16.3,Veg,College ,Chopsticks,Indian,₹100-₹150,Past Midnight
+23112318,Veda Yogesh Rane,16.3,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,16.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,Past 10pm
+23112321,Kratik Lodha,16.3,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,17.3,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,9pm-10pm
+23112302,Aryan Singhal,17.3,Veg,College ,Cafe Concerto,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,17.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112305,Harshil Mishra,17.3,Veg,College ,Chopsticks,Indian,₹50-₹100,9pm-10pm
+23112306,Juhi Rathore,17.3,Veg,College ,Chopsticks,Chinese,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,17.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112308,Mehuli Dutta,17.3,Non - Veg,College ,Cafe by the Valley,Indian,₹150-₹200,9pm-10pm
+23112310,Vishal Verma,17.3,Non - Veg,Market,Not in college,Italian,₹50-₹100,Past 10pm
+23112312,Shruti Mishra,17.3,Veg,Market,Not in college,Chinese,₹100-₹150,8pm-9pm
+23112313,Shubhalaxmi Sagare,17.3,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112314,Smaira Pandita,17.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,6pm-7pm
+23112316,Tarit Kumar Singh,17.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112317,Urvi Saran,17.3,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112318,Veda Yogesh Rane,17.3,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,Past Midnight
+23112320,Abhimanyu Sharma,17.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112321,Kratik Lodha,17.3,Non - Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,18.3,Veg,College ,Cafe Concerto,Indian,₹100-₹150,6pm-7pm
+23112302,Aryan Singhal,18.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,18.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112305,Harshil Mishra,18.3,Veg,College ,Home-Cooked,Indian,₹100-₹150,8pm-9pm
+23112306,Juhi Rathore,18.3,Veg,College ,Chopsticks,Chinese,₹150-₹200,8pm-9pm
+23112307,Anjali Kakde,18.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112308,Mehuli Dutta,18.3,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,6pm-7pm
+23112310,Vishal Verma,18.3,Non - Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112312,Shruti Mishra,18.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,7pm-8pm
+23112313,Shubhalaxmi Sagare,18.3,Veg,College ,Chopsticks,Chinese,₹50-₹100,Past 10pm
+23112314,Smaira Pandita,18.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,6pm-7pm
+23112316,Tarit Kumar Singh,18.3,Non - Veg,College ,Steaming Mugs ,Italian,₹100-₹150,Past Midnight
+23112317,Urvi Saran,18.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112318,Veda Yogesh Rane,18.3,Veg,College ,Chopsticks,Indian,₹50-₹100,Past 10pm
+23112320,Abhimanyu Sharma,18.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112321,Kratik Lodha,18.3,Veg,College ,Chopsticks,Indian,₹200-₹250,9pm-10pm
+23112301,Arghya Basu,19.3,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,8pm-9pm
+23112302,Aryan Singhal,19.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112303,Avinash Ruthvik,19.3,Non - Veg,College ,Chopsticks,Italian,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,19.3,Veg,College ,Steaming Mugs ,Indian,₹150-₹200,9pm-10pm
+23112306,Juhi Rathore,19.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,19.3,Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112308,Mehuli Dutta,19.3,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,Past 10pm
+23112310,Vishal Verma,19.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,Past 10pm
+23112312,Shruti Mishra,19.3,Non - Veg,College ,Chopsticks,Italian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,19.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112314,Smaira Pandita,19.3,Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112316,Tarit Kumar Singh,19.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,7pm-8pm
+23112317,Urvi Saran,19.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112318,Veda Yogesh Rane,19.3,Veg,Home-Cooked,Not in college,Chinese,₹150-₹200,Past Midnight
+23112320,Abhimanyu Sharma,19.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112321,Kratik Lodha,19.3,Non - Veg,College ,Steaming Mugs ,Italian,₹50-₹100,8pm-9pm
+23112301,Arghya Basu,20.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112302,Aryan Singhal,20.3,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,20.3,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,6pm-7pm
+23112305,Harshil Mishra,20.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112306,Juhi Rathore,20.3,Non - Veg,College ,Steaming Mugs ,Italian,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,20.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,20.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,6pm-7pm
+23112310,Vishal Verma,20.3,Non - Veg,College ,Cafe by the Valley,Indian,₹200-₹250,9pm-10pm
+23112312,Shruti Mishra,20.3,Veg,Market,Not in college,Indian,₹100-₹150,7pm-8pm
+23112313,Shubhalaxmi Sagare,20.3,Veg,Market,Not in college,Chinese,₹150-₹200,Past 10pm
+23112314,Smaira Pandita,20.3,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,6pm-7pm
+23112316,Tarit Kumar Singh,20.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past Midnight
+23112317,Urvi Saran,20.3,Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112318,Veda Yogesh Rane,20.3,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,Past 10pm
+23112320,Abhimanyu Sharma,20.3,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112321,Kratik Lodha,20.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112301,Arghya Basu,21.3,Veg,College ,Chopsticks,Chinese,₹100-₹150,8pm-9pm
+23112302,Aryan Singhal,21.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112303,Avinash Ruthvik,21.3,Non - Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,21.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,21.3,Veg,College ,Chopsticks,Indian,₹200-₹250,9pm-10pm
+23112307,Anjali Kakde,21.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,21.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past 10pm
+23112310,Vishal Verma,21.3,Veg,College ,Chopsticks,Chinese,₹100-₹150,8pm-9pm
+23112312,Shruti Mishra,21.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112313,Shubhalaxmi Sagare,21.3,Non - Veg,College ,Chopsticks,Chinese,₹200-₹250,6pm-7pm
+23112314,Smaira Pandita,21.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112316,Tarit Kumar Singh,21.3,Non - Veg,Market,Not in college,Indian,₹150-₹200,8pm-9pm
+23112317,Urvi Saran,21.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,Past Midnight
+23112318,Veda Yogesh Rane,21.3,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,7pm-8pm
+23112320,Abhimanyu Sharma,21.3,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112321,Kratik Lodha,21.3,Non - Veg,College ,Chopsticks,Italian,₹150-₹200,6pm-7pm
+23112301,Arghya Basu,22.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112302,Aryan Singhal,22.3,Veg,College ,Chopsticks,Indian,₹50-₹100,6pm-7pm
+23112303,Avinash Ruthvik,22.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,22.3,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112306,Juhi Rathore,22.3,Veg,College ,Chopsticks,Chinese,₹50-₹100,9pm-10pm
+23112307,Anjali Kakde,22.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112308,Mehuli Dutta,22.3,Non - Veg,College ,Chopsticks,Chinese,₹200-₹250,9pm-10pm
+23112310,Vishal Verma,22.3,Non - Veg,Market,Cafe by the Valley,Indian,₹100-₹150,7pm-8pm
+23112312,Shruti Mishra,22.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past 10pm
+23112313,Shubhalaxmi Sagare,22.3,Veg,College ,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112314,Smaira Pandita,22.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112316,Tarit Kumar Singh,22.3,Non - Veg,Market,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112317,Urvi Saran,22.3,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112318,Veda Yogesh Rane,22.3,Veg,College ,Not in college,Indian,₹150-₹200,8pm-9pm
+23112320,Abhimanyu Sharma,22.3,Non - Veg,Market,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112321,Kratik Lodha,22.3,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,23.3,Veg,Market,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112302,Aryan Singhal,23.3,Veg,Home-Cooked,Chopsticks,Indian,₹150-₹200,9pm-10pm
+23112303,Avinash Ruthvik,23.3,Non - Veg,College ,Cafe by the Valley,Italian,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,23.3,Non - Veg,Market,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112306,Juhi Rathore,23.3,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,23.3,Veg,College ,Not in college,Indian,₹50-₹100,Past 10pm
+23112308,Mehuli Dutta,23.3,Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,Past Midnight
+23112310,Vishal Verma,23.3,Veg,Home-Cooked,Home-Cooked,Indian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,23.3,Non - Veg,College ,Not in college,Italian,₹200-₹250,Past 10pm
+23112313,Shubhalaxmi Sagare,23.3,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112314,Smaira Pandita,23.3,Veg,College ,Chopsticks,Indian,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,23.3,Non - Veg,Market,Home-Cooked,Indian,₹150-₹200,8pm-9pm
+23112317,Urvi Saran,23.3,Veg,College ,Chopsticks,Indian,₹100-₹150,9pm-10pm
+23112318,Veda Yogesh Rane,23.3,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,6pm-7pm
+23112320,Abhimanyu Sharma,23.3,Veg,Home-Cooked,Cafe by the Valley,Indian,₹100-₹150,7pm-8pm
+23112321,Kratik Lodha,23.3,Non - Veg,College ,Not in college,Chinese,₹150-₹200,8pm-9pm
+23112301,Arghya Basu,2.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,Past Midnight
+23112302,Aryan Singhal,2.4,Veg,College ,Chopsticks,Indian,₹100-₹150,7pm-8pm
+23112303,Avinash Ruthvik,2.4,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,8pm-9pm
+23112305,Harshil Mishra,2.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,6pm-7pm
+23112306,Juhi Rathore,2.4,Non - Veg,Market,Not in college,Chinese,₹50-₹100,8pm-9pm
+23112307,Anjali Kakde,2.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112308,Mehuli Dutta,2.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112310,Vishal Verma,2.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112312,Shruti Mishra,2.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,2.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,6pm-7pm
+23112314,Smaira Pandita,2.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112316,Tarit Kumar Singh,2.4,Non - Veg,College ,Chopsticks,Chinese,₹100-₹150,7pm-8pm
+23112317,Urvi Saran,2.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112318,Veda Yogesh Rane,2.4,Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112320,Abhimanyu Sharma,2.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past Midnight
+23112321,Kratik Lodha,2.4,Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112301,Arghya Basu,3.4,Veg,Market,Not in college,Chinese,₹100-₹150,Past 10pm
+23112302,Aryan Singhal,3.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,8pm-9pm
+23112303,Avinash Ruthvik,3.4,Non - Veg,Market,Not in college,Italian,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,3.4,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112306,Juhi Rathore,3.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112307,Anjali Kakde,3.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112308,Mehuli Dutta,3.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112310,Vishal Verma,3.4,Veg,Market,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112312,Shruti Mishra,3.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,3.4,Non - Veg,College ,Chopsticks,Italian,₹50-₹100,Past 10pm
+23112314,Smaira Pandita,3.4,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,3.4,Non - Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112317,Urvi Saran,3.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,Past 10pm
+23112318,Veda Yogesh Rane,3.4,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112320,Abhimanyu Sharma,3.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,7pm-8pm
+23112321,Kratik Lodha,3.4,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,4.4,Veg,Market,Not in college,Chinese,₹100-₹150,Past Midnight
+23112302,Aryan Singhal,4.4,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,7pm-8pm
+23112303,Avinash Ruthvik,4.4,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,4.4,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,6pm-7pm
+23112306,Juhi Rathore,4.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112307,Anjali Kakde,4.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112308,Mehuli Dutta,4.4,Veg,College ,Chopsticks,Indian,₹200-₹250,8pm-9pm
+23112310,Vishal Verma,4.4,Veg,College ,Chopsticks,Chinese,₹150-₹200,8pm-9pm
+23112312,Shruti Mishra,4.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,4.4,Non - Veg,College ,Cafe by the Valley,Italian,₹50-₹100,6pm-7pm
+23112314,Smaira Pandita,4.4,Non - Veg,Market,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,4.4,Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112317,Urvi Saran,4.4,Veg,Market,Not in college,Chinese,₹50-₹100,Past 10pm
+23112318,Veda Yogesh Rane,4.4,Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112320,Abhimanyu Sharma,4.4,Non - Veg,Home-Cooked,Not in college,Italian,₹200-₹250,Past Midnight
+23112321,Kratik Lodha,4.4,Veg,College ,Chopsticks,Indian,₹100-₹150,9pm-10pm
+23112301,Arghya Basu,5.4,Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112302,Aryan Singhal,5.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,5.4,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112305,Harshil Mishra,5.4,Veg,Market,Not in college,Chinese,₹200-₹250,8pm-9pm
+23112306,Juhi Rathore,5.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,5.4,Non - Veg,College ,Chopsticks,Italian,₹150-₹200,9pm-10pm
+23112308,Mehuli Dutta,5.4,Non - Veg,College ,Chopsticks,Italian,₹50-₹100,9pm-10pm
+23112310,Vishal Verma,5.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,5.4,Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112313,Shubhalaxmi Sagare,5.4,Veg,Market,Not in college,Chinese,₹150-₹200,Past 10pm
+23112314,Smaira Pandita,5.4,Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112316,Tarit Kumar Singh,5.4,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,7pm-8pm
+23112317,Urvi Saran,5.4,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112318,Veda Yogesh Rane,5.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,Past Midnight
+23112320,Abhimanyu Sharma,5.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112321,Kratik Lodha,5.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,6.4,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,6pm-7pm
+23112302,Aryan Singhal,6.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,6.4,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,6pm-7pm
+23112305,Harshil Mishra,6.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112306,Juhi Rathore,6.4,Non - Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,6.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112308,Mehuli Dutta,6.4,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112310,Vishal Verma,6.4,Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112312,Shruti Mishra,6.4,Non - Veg,Market,Not in college,Italian,₹50-₹100,7pm-8pm
+23112313,Shubhalaxmi Sagare,6.4,Veg,College ,Chopsticks,Indian,₹100-₹150,Past 10pm
+23112314,Smaira Pandita,6.4,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,6pm-7pm
+23112316,Tarit Kumar Singh,6.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,Past Midnight
+23112317,Urvi Saran,6.4,Veg,College ,Chopsticks,Indian,₹50-₹100,9pm-10pm
+23112318,Veda Yogesh Rane,6.4,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,Past 10pm
+23112320,Abhimanyu Sharma,6.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112321,Kratik Lodha,6.4,Non - Veg,College ,Cafe by the Valley,Italian,₹50-₹100,9pm-10pm
+23112301,Arghya Basu,7.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112302,Aryan Singhal,7.4,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112303,Avinash Ruthvik,7.4,Veg,Market,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112305,Harshil Mishra,7.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,7.4,Non - Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,7.4,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,9pm-10pm
+23112308,Mehuli Dutta,7.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past 10pm
+23112310,Vishal Verma,7.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,8pm-9pm
+23112312,Shruti Mishra,7.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112313,Shubhalaxmi Sagare,7.4,Veg,College ,Chopsticks,Chinese,₹150-₹200,Past Midnight
+23112314,Smaira Pandita,7.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,6pm-7pm
+23112316,Tarit Kumar Singh,7.4,Non - Veg,College ,Chopsticks,Chinese,₹100-₹150,7pm-8pm
+23112317,Urvi Saran,7.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,8pm-9pm
+23112318,Veda Yogesh Rane,7.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,Past Midnight
+23112320,Abhimanyu Sharma,7.4,Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112321,Kratik Lodha,7.4,Veg,College ,Chopsticks,Chinese,₹150-₹200,8pm-9pm
+23112301,Arghya Basu,8.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112302,Aryan Singhal,8.4,Non - Veg,Market,Not in college,Chinese,₹50-₹100,8pm-9pm
+23112303,Avinash Ruthvik,8.4,Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112305,Harshil Mishra,8.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112306,Juhi Rathore,8.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,8pm-9pm
+23112307,Anjali Kakde,8.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,8.4,Veg,College ,Chopsticks,Chinese,₹100-₹150,6pm-7pm
+23112310,Vishal Verma,8.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,8.4,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,7pm-8pm
+23112313,Shubhalaxmi Sagare,8.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,Past 10pm
+23112314,Smaira Pandita,8.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112316,Tarit Kumar Singh,8.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,Past Midnight
+23112317,Urvi Saran,8.4,Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112318,Veda Yogesh Rane,8.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,Past 10pm
+23112320,Abhimanyu Sharma,8.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112321,Kratik Lodha,8.4,Non - Veg,Market,Not in college,Italian,₹150-₹200,9pm-10pm
+23112301,Arghya Basu,9.4,Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112302,Aryan Singhal,9.4,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112303,Avinash Ruthvik,9.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112305,Harshil Mishra,9.4,Veg,College ,Chopsticks,Indian,₹50-₹100,9pm-10pm
+23112306,Juhi Rathore,9.4,Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,9pm-10pm
+23112307,Anjali Kakde,9.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,9.4,Non - Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,Past 10pm
+23112310,Vishal Verma,9.4,Non - Veg,Market,Not in college,Chinese,₹100-₹150,6pm-7pm
+23112312,Shruti Mishra,9.4,Veg,Market,Not in college,Chinese,₹100-₹150,7pm-8pm
+23112313,Shubhalaxmi Sagare,9.4,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,8pm-9pm
+23112314,Smaira Pandita,9.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112316,Tarit Kumar Singh,9.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,7pm-8pm
+23112317,Urvi Saran,9.4,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,8pm-9pm
+23112318,Veda Yogesh Rane,9.4,Veg,College ,Cafe by the Valley,Chinese,₹150-₹200,6pm-7pm
+23112320,Abhimanyu Sharma,9.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112321,Kratik Lodha,9.4,Non - Veg,College ,Steaming Mugs ,Italian,₹100-₹150,6pm-7pm
+23112301,Arghya Basu,10.4,Veg,College ,Chopsticks,Indian,₹200-₹250,8pm-9pm
+23112302,Aryan Singhal,10.4,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,8pm-9pm
+23112303,Avinash Ruthvik,10.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,10.4,Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112306,Juhi Rathore,10.4,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,10.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,7pm-8pm
+23112308,Mehuli Dutta,10.4,Non - Veg,College ,Chopsticks,Chinese,₹50-₹100,Past 10pm
+23112310,Vishal Verma,10.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112312,Shruti Mishra,10.4,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,Past Midnight
+23112313,Shubhalaxmi Sagare,10.4,Veg,College ,Chopsticks,Chinese,₹100-₹150,9pm-10pm
+23112314,Smaira Pandita,10.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112316,Tarit Kumar Singh,10.4,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,8pm-9pm
+23112317,Urvi Saran,10.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112318,Veda Yogesh Rane,10.4,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,8pm-9pm
+23112320,Abhimanyu Sharma,10.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112321,Kratik Lodha,10.4,Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112301,Arghya Basu,11.4,Veg,Market,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112302,Aryan Singhal,11.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112303,Avinash Ruthvik,11.4,Non - Veg,Market,Not in college,Chinese,₹200-₹250,9pm-10pm
+23112305,Harshil Mishra,11.4,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,Past 10pm
+23112306,Juhi Rathore,11.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112307,Anjali Kakde,11.4,Veg,College ,Chopsticks,Indian,₹150-₹200,6pm-7pm
+23112308,Mehuli Dutta,11.4,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,7pm-8pm
+23112310,Vishal Verma,11.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112312,Shruti Mishra,11.4,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,Past Midnight
+23112313,Shubhalaxmi Sagare,11.4,Veg,Market,Not in college,Indian,₹100-₹150,7pm-8pm
+23112314,Smaira Pandita,11.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112316,Tarit Kumar Singh,11.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112317,Urvi Saran,11.4,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,8pm-9pm
+23112318,Veda Yogesh Rane,11.4,Veg,College ,Cafe by the Valley,Chinese,₹150-₹200,6pm-7pm
+23112320,Abhimanyu Sharma,11.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112321,Kratik Lodha,11.4,Non - Veg,College ,Chopsticks,Italian,₹200-₹250,8pm-9pm
+23112301,Arghya Basu,12.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,12.4,Veg,Market,Not in college,Indian,₹150-₹200,6pm-7pm
+23112303,Avinash Ruthvik,12.4,Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,12.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112306,Juhi Rathore,12.4,Non - Veg,College ,Cafe by the Valley,Italian,₹200-₹250,Past 10pm
+23112307,Anjali Kakde,12.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,6pm-7pm
+23112308,Mehuli Dutta,12.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,Past Midnight
+23112310,Vishal Verma,12.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112312,Shruti Mishra,12.4,Veg,College ,Chopsticks,Indian,₹100-₹150,Past 10pm
+23112313,Shubhalaxmi Sagare,12.4,Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,8pm-9pm
+23112314,Smaira Pandita,12.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,12.4,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,8pm-9pm
+23112317,Urvi Saran,12.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112318,Veda Yogesh Rane,12.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,12.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112321,Kratik Lodha,12.4,Veg,Market,Not in college,Chinese,₹50-₹100,9pm-10pm
+23112301,Arghya Basu,13.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,13.4,Non - Veg,College ,Cafe by the Valley,Italian,₹200-₹250,Past 10pm
+23112303,Avinash Ruthvik,13.4,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,6pm-7pm
+23112305,Harshil Mishra,13.4,Veg,College ,Cafe Concerto,Indian,₹150-₹200,7pm-8pm
+23112306,Juhi Rathore,13.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112307,Anjali Kakde,13.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112308,Mehuli Dutta,13.4,Veg,Market,Not in college,Chinese,₹200-₹250,7pm-8pm
+23112310,Vishal Verma,13.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,8pm-9pm
+23112312,Shruti Mishra,13.4,Non - Veg,Market,Not in college,Chinese,₹50-₹100,6pm-7pm
+23112313,Shubhalaxmi Sagare,13.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112314,Smaira Pandita,13.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112316,Tarit Kumar Singh,13.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112317,Urvi Saran,13.4,Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112318,Veda Yogesh Rane,13.4,Veg,Market,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,13.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,6pm-7pm
+23112321,Kratik Lodha,13.4,Non - Veg,Market,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112301,Arghya Basu,14.4,Veg,College ,Chopsticks,Indian,₹100-₹150,7pm-8pm
+23112302,Aryan Singhal,14.4,Veg,College ,Chopsticks,Indian,₹150-₹200,Past 10pm
+23112303,Avinash Ruthvik,14.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112305,Harshil Mishra,14.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,Past Midnight
+23112306,Juhi Rathore,14.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112307,Anjali Kakde,14.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,Past 10pm
+23112308,Mehuli Dutta,14.4,Non - Veg,Market,Not in college,Chinese,₹50-₹100,8pm-9pm
+23112310,Vishal Verma,14.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,14.4,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,8pm-9pm
+23112313,Shubhalaxmi Sagare,14.4,Veg,Market,Not in college,Chinese,₹150-₹200,9pm-10pm
+23112314,Smaira Pandita,14.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,14.4,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,9pm-10pm
+23112317,Urvi Saran,14.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112318,Veda Yogesh Rane,14.4,Veg,College ,Chopsticks,Indian,₹50-₹100,9pm-10pm
+23112320,Abhimanyu Sharma,14.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,Past 10pm
+23112321,Kratik Lodha,14.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,6pm-7pm
+23112301,Arghya Basu,15.4,Veg,Home-Cooked,Not in college,Chinese,₹200-₹250,7pm-8pm
+23112302,Aryan Singhal,15.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112303,Avinash Ruthvik,15.4,Non - Veg,College ,Chopsticks,Indian,₹100-₹150,Past Midnight
+23112305,Harshil Mishra,15.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,7pm-8pm
+23112306,Juhi Rathore,15.4,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,15.4,Veg,Market,Not in college,Chinese,₹200-₹250,6pm-7pm
+23112308,Mehuli Dutta,15.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112310,Vishal Verma,15.4,Non - Veg,Market,Not in college,Italian,₹100-₹150,6pm-7pm
+23112312,Shruti Mishra,15.4,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112313,Shubhalaxmi Sagare,15.4,Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112314,Smaira Pandita,15.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112316,Tarit Kumar Singh,15.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,6pm-7pm
+23112317,Urvi Saran,15.4,Veg,Market,Not in college,Chinese,₹150-₹200,9pm-10pm
+23112318,Veda Yogesh Rane,15.4,Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112320,Abhimanyu Sharma,15.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112321,Kratik Lodha,15.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112301,Arghya Basu,16.4,Veg,Market,Not in college,Indian,₹150-₹200,Past Midnight
+23112302,Aryan Singhal,16.4,Veg,College ,Chopsticks,Chinese,₹50-₹100,9pm-10pm
+23112303,Avinash Ruthvik,16.4,Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112305,Harshil Mishra,16.4,Non - Veg,Market,Not in college,Italian,₹100-₹150,8pm-9pm
+23112306,Juhi Rathore,16.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112307,Anjali Kakde,16.4,Veg,College ,Chopsticks,Indian,₹50-₹100,8pm-9pm
+23112308,Mehuli Dutta,16.4,Non - Veg,College ,Chopsticks,Indian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,16.4,Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112312,Shruti Mishra,16.4,Veg,Home-Cooked,Not in college,Chinese,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,16.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112314,Smaira Pandita,16.4,Non - Veg,College ,Chopsticks,Italian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,16.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112317,Urvi Saran,16.4,Veg,College ,Chopsticks,Indian,₹200-₹250,8pm-9pm
+23112318,Veda Yogesh Rane,16.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,7pm-8pm
+23112320,Abhimanyu Sharma,16.4,Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112321,Kratik Lodha,16.4,Non - Veg,College ,Chopsticks,Indian,₹50-₹100,7pm-8pm
+23112301,Arghya Basu,17.4,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112302,Aryan Singhal,17.4,Veg,College ,Steaming Mugs ,Indian,₹200-₹250,Past Midnight
+23112303,Avinash Ruthvik,17.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,7pm-8pm
+23112305,Harshil Mishra,17.4,Veg,Market,Not in college,Indian,₹150-₹200,8pm-9pm
+23112306,Juhi Rathore,17.4,Veg,Market,Not in college,Chinese,₹50-₹100,6pm-7pm
+23112307,Anjali Kakde,17.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,17.4,Non - Veg,College ,Cafe by the Valley,Italian,₹200-₹250,6pm-7pm
+23112310,Vishal Verma,17.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,8pm-9pm
+23112312,Shruti Mishra,17.4,Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112313,Shubhalaxmi Sagare,17.4,Veg,College ,Chopsticks,Chinese,₹100-₹150,9pm-10pm
+23112314,Smaira Pandita,17.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112316,Tarit Kumar Singh,17.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112317,Urvi Saran,17.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,7pm-8pm
+23112318,Veda Yogesh Rane,17.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past 10pm
+23112320,Abhimanyu Sharma,17.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112321,Kratik Lodha,17.4,Veg,Market,Not in college,Indian,₹100-₹150,Past Midnight
+23112301,Arghya Basu,18.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,18.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,Past 10pm
+23112303,Avinash Ruthvik,18.4,Non - Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,18.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112306,Juhi Rathore,18.4,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,18.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,18.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,18.4,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,18.4,Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112313,Shubhalaxmi Sagare,18.4,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112314,Smaira Pandita,18.4,Non - Veg,Market,Not in college,Indian,₹150-₹200,Past 10pm
+23112316,Tarit Kumar Singh,18.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112317,Urvi Saran,18.4,Veg,Market,Not in college,Chinese,₹100-₹150,7pm-8pm
+23112318,Veda Yogesh Rane,18.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112320,Abhimanyu Sharma,18.4,Non - Veg,College ,Cafe by the Valley,Indian,₹150-₹200,Past Midnight
+23112321,Kratik Lodha,18.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,7pm-8pm
+23112301,Arghya Basu,19.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112302,Aryan Singhal,19.4,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,6pm-7pm
+23112303,Avinash Ruthvik,19.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112305,Harshil Mishra,19.4,Non - Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,6pm-7pm
+23112306,Juhi Rathore,19.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112307,Anjali Kakde,19.4,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,8pm-9pm
+23112308,Mehuli Dutta,19.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,19.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,6pm-7pm
+23112312,Shruti Mishra,19.4,Veg,College ,Chopsticks,Chinese,₹200-₹250,9pm-10pm
+23112313,Shubhalaxmi Sagare,19.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,7pm-8pm
+23112314,Smaira Pandita,19.4,Non - Veg,College ,Chopsticks,Chinese,₹200-₹250,Past 10pm
+23112316,Tarit Kumar Singh,19.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112317,Urvi Saran,19.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past Midnight
+23112318,Veda Yogesh Rane,19.4,Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,9pm-10pm
+23112320,Abhimanyu Sharma,19.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112321,Kratik Lodha,19.4,Non - Veg,College ,Cafe by the Valley,Not in College,₹200-₹250,8pm-9pm
+23112301,Arghya Basu,20.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,20.4,Veg,College ,Cafe Concerto,Indian,₹150-₹200,8pm-9pm
+23112303,Avinash Ruthvik,20.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112305,Harshil Mishra,20.4,Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,20.4,Veg,College ,Steaming Mugs ,Chinese,₹200-₹250,9pm-10pm
+23112307,Anjali Kakde,20.4,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,9pm-10pm
+23112308,Mehuli Dutta,20.4,Non - Veg,College ,Cafe by the Valley,Not in College,₹50-₹100,9pm-10pm
+23112310,Vishal Verma,20.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,Past 10pm
+23112312,Shruti Mishra,20.4,Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112313,Shubhalaxmi Sagare,20.4,Veg,College ,Not in college,Chinese,₹50-₹100,7pm-8pm
+23112314,Smaira Pandita,20.4,Veg,Home-Cooked,Home-Cooked,Indian,₹50-₹100,8pm-9pm
+23112316,Tarit Kumar Singh,20.4,Non - Veg,College ,Cafe by the Valley,Not in College,₹100-₹150,Past Midnight
+23112317,Urvi Saran,20.4,Veg,College ,Not in college,Indian,₹200-₹250,7pm-8pm
+23112318,Veda Yogesh Rane,20.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112320,Abhimanyu Sharma,20.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,6pm-7pm
+23112321,Kratik Lodha,20.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112301,Arghya Basu,21.4,Veg,College ,Chopsticks,Chinese,₹100-₹150,6pm-7pm
+23112302,Aryan Singhal,21.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,8pm-9pm
+23112303,Avinash Ruthvik,21.4,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,8pm-9pm
+23112305,Harshil Mishra,21.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,21.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112307,Anjali Kakde,21.4,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,21.4,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,7pm-8pm
+23112310,Vishal Verma,21.4,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,Past 10pm
+23112312,Shruti Mishra,21.4,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,6pm-7pm
+23112313,Shubhalaxmi Sagare,21.4,Veg,College ,Chopsticks,Indian,₹50-₹100,Past Midnight
+23112314,Smaira Pandita,21.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,21.4,Veg,College ,Chopsticks,Indian,₹200-₹250,Past 10pm
+23112317,Urvi Saran,21.4,Veg,College ,Cafe by the Valley,Chinese,₹150-₹200,8pm-9pm
+23112318,Veda Yogesh Rane,21.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
+23112320,Abhimanyu Sharma,21.4,Non - Veg,College ,Steaming Mugs ,Indian,₹50-₹100,8pm-9pm
+23112321,Kratik Lodha,21.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112301,Arghya Basu,22.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112302,Aryan Singhal,22.4,Veg,College ,Cafe Concerto,Chinese,₹50-₹100,9pm-10pm
+23112303,Avinash Ruthvik,22.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112305,Harshil Mishra,22.4,Non - Veg,College ,Cafe by the Valley,Indian,₹200-₹250,9pm-10pm
+23112306,Juhi Rathore,22.4,Veg,College ,Chopsticks,Indian,₹100-₹150,Past 10pm
+23112307,Anjali Kakde,22.4,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,7pm-8pm
+23112308,Mehuli Dutta,22.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112310,Vishal Verma,22.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,7pm-8pm
+23112312,Shruti Mishra,22.4,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,8pm-9pm
+23112313,Shubhalaxmi Sagare,22.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112314,Smaira Pandita,22.4,Non - Veg,College ,Steaming Mugs ,Indian,₹100-₹150,7pm-8pm
+23112316,Tarit Kumar Singh,22.4,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112317,Urvi Saran,22.4,Veg,College ,Cafe Concerto,Indian,₹100-₹150,6pm-7pm
+23112318,Veda Yogesh Rane,22.4,Veg,College ,Steaming Mugs ,Chinese,₹200-₹250,8pm-9pm
+23112320,Abhimanyu Sharma,22.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112321,Kratik Lodha,22.4,Non - Veg,College ,Chopsticks,Indian,₹150-₹200,8pm-9pm
+23112301,Arghya Basu,23.4,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,8pm-9pm
+23112302,Aryan Singhal,23.4,Veg,College ,Cafe Concerto,Indian,₹100-₹150,9pm-10pm
+23112303,Avinash Ruthvik,23.4,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112305,Harshil Mishra,23.4,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,9pm-10pm
+23112306,Juhi Rathore,23.4,Veg,College ,Cafe Concerto,Chinese,₹50-₹100,7pm-8pm
+23112307,Anjali Kakde,23.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,Past 10pm
+23112308,Mehuli Dutta,23.4,Non - Veg,College ,Steaming Mugs ,Italian,₹100-₹150,6pm-7pm
+23112310,Vishal Verma,23.4,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,Past Midnight
+23112312,Shruti Mishra,23.4,Non - Veg,College ,Cafe Concerto,Indian,₹50-₹100,9pm-10pm
+23112313,Shubhalaxmi Sagare,23.4,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,Past 10pm
+23112314,Smaira Pandita,23.4,Veg,College ,Chopsticks,Indian,₹200-₹250,8pm-9pm
+23112316,Tarit Kumar Singh,23.4,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112317,Urvi Saran,23.4,Veg,College ,Chopsticks,Indian,₹100-₹150,8pm-9pm
+23112318,Veda Yogesh Rane,23.4,Veg,College ,Cafe Concerto,Chinese,₹50-₹100,9pm-10pm
+23112320,Abhimanyu Sharma,23.4,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112321,Kratik Lodha,23.4,Non - Veg,College ,Steaming Mugs ,Italian,₹200-₹250,9pm-10pm
+23112301,Arghya Basu,24.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,24.5,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112303,Avinash Ruthvik,24.5,Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,Past 10pm
+23112305,Harshil Mishra,24.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112306,Juhi Rathore,24.5,Non - Veg,College ,Cafe by the Valley,Indian,₹200-₹250,7pm-8pm
+23112307,Anjali Kakde,24.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,24.5,Non - Veg,College ,Cafe Concerto,Indian,₹150-₹200,Past Midnight
+23112310,Vishal Verma,24.5,Veg,College ,Chopsticks,Indian,₹50-₹100,7pm-8pm
+23112312,Shruti Mishra,24.5,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,8pm-9pm
+23112313,Shubhalaxmi Sagare,24.5,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112314,Smaira Pandita,24.5,Veg,College ,Steaming Mugs ,Indian,₹150-₹200,8pm-9pm
+23112316,Tarit Kumar Singh,24.5,Veg,College ,Cafe Concerto,Chinese,₹50-₹100,6pm-7pm
+23112317,Urvi Saran,24.5,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112318,Veda Yogesh Rane,24.5,Non - Veg,College ,Cafe Concerto,Indian,₹100-₹150,8pm-9pm
+23112320,Abhimanyu Sharma,24.5,Non - Veg,Market,Not in college,Indian,₹50-₹100,9pm-10pm
+23112321,Kratik Lodha,24.5,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112301,Arghya Basu,25.5,Veg,College ,Chopsticks,Chinese,₹100-₹150,9pm-10pm
+23112302,Aryan Singhal,25.5,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,7pm-8pm
+23112303,Avinash Ruthvik,25.5,Non - Veg,College ,Chopsticks,Indian,₹100-₹150,Past 10pm
+23112305,Harshil Mishra,25.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,6pm-7pm
+23112306,Juhi Rathore,25.5,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,Past Midnight
+23112307,Anjali Kakde,25.5,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,25.5,Veg,College ,Steaming Mugs ,Indian,₹200-₹250,Past 10pm
+23112310,Vishal Verma,25.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112312,Shruti Mishra,25.5,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,25.5,Veg,College ,Cafe Concerto,Chinese,₹50-₹100,8pm-9pm
+23112314,Smaira Pandita,25.5,Veg,Home-Cooked,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,25.5,Non - Veg,College ,Chopsticks,Italian,₹200-₹250,9pm-10pm
+23112317,Urvi Saran,25.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112318,Veda Yogesh Rane,25.5,Veg,College ,Chopsticks,Indian,₹150-₹200,9pm-10pm
+23112320,Abhimanyu Sharma,25.5,Veg,College ,Cafe Concerto,Chinese,₹50-₹100,9pm-10pm
+23112321,Kratik Lodha,25.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112301,Arghya Basu,26.5,Non - Veg,College ,Cafe Concerto,Indian,₹200-₹250,6pm-7pm
+23112302,Aryan Singhal,26.5,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,7pm-8pm
+23112303,Avinash Ruthvik,26.5,Non - Veg,College ,Cafe Concerto,Italian,₹50-₹100,8pm-9pm
+23112305,Harshil Mishra,26.5,Veg,College ,Steaming Mugs ,Indian,₹50-₹100,Past Midnight
+23112306,Juhi Rathore,26.5,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,7pm-8pm
+23112307,Anjali Kakde,26.5,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112308,Mehuli Dutta,26.5,Veg,College ,Chopsticks,Indian,₹50-₹100,6pm-7pm
+23112310,Vishal Verma,26.5,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,8pm-9pm
+23112312,Shruti Mishra,26.5,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,6pm-7pm
+23112313,Shubhalaxmi Sagare,26.5,Non - Veg,College ,Steaming Mugs ,Indian,₹100-₹150,8pm-9pm
+23112314,Smaira Pandita,26.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112316,Tarit Kumar Singh,26.5,Veg,College ,Steaming Mugs ,Indian,₹50-₹100,9pm-10pm
+23112317,Urvi Saran,26.5,Veg,College ,Cafe Concerto,Chinese,₹100-₹150,6pm-7pm
+23112318,Veda Yogesh Rane,26.5,Veg,Home-Cooked,Not in college,Indian,₹200-₹250,9pm-10pm
+23112320,Abhimanyu Sharma,26.5,Non - Veg,College ,Cafe Concerto,Indian,₹100-₹150,7pm-8pm
+23112321,Kratik Lodha,26.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past 10pm
+23112301,Arghya Basu,27.5,Non - Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112302,Aryan Singhal,27.5,Veg,College ,Chopsticks,Indian,₹100-₹150,Past Midnight
+23112303,Avinash Ruthvik,27.5,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,9pm-10pm
+23112305,Harshil Mishra,27.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,Past 10pm
+23112306,Juhi Rathore,27.5,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,8pm-9pm
+23112307,Anjali Kakde,27.5,Veg,College ,Steaming Mugs ,Chinese,₹50-₹100,9pm-10pm
+23112308,Mehuli Dutta,27.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112310,Vishal Verma,27.5,Non - Veg,College ,Steaming Mugs ,Italian,₹200-₹250,9pm-10pm
+23112312,Shruti Mishra,27.5,Non - Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112313,Shubhalaxmi Sagare,27.5,Veg,College ,Steaming Mugs ,Indian,₹50-₹100,9pm-10pm
+23112314,Smaira Pandita,27.5,Veg,College ,Cafe Concerto,Chinese,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,27.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112317,Urvi Saran,27.5,Non - Veg,College ,Chopsticks,Indian,₹50-₹100,Past 10pm
+23112318,Veda Yogesh Rane,27.5,Non - Veg,Market,Not in college,Indian,₹50-₹100,6pm-7pm
+23112320,Abhimanyu Sharma,27.5,Veg,College ,Chopsticks,Indian,₹100-₹150,7pm-8pm
+23112321,Kratik Lodha,27.5,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,8pm-9pm
+23112301,Arghya Basu,28.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112302,Aryan Singhal,28.5,Non - Veg,College ,Cafe Concerto,Italian,₹100-₹150,7pm-8pm
+23112303,Avinash Ruthvik,28.5,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112305,Harshil Mishra,28.5,Non - Veg,College ,Cafe Concerto,Italian,₹100-₹150,6pm-7pm
+23112306,Juhi Rathore,28.5,Veg,College ,Steaming Mugs ,Indian,₹200-₹250,8pm-9pm
+23112307,Anjali Kakde,28.5,Veg,College ,Chopsticks,Indian,₹100-₹150,6pm-7pm
+23112308,Mehuli Dutta,28.5,Non - Veg,Market,Steaming Mugs ,Indian,₹100-₹150,8pm-9pm
+23112310,Vishal Verma,28.5,Veg,College ,Chopsticks,Indian,₹50-₹100,8pm-9pm
+23112312,Shruti Mishra,28.5,Veg,College ,Cafe Concerto,Chinese,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,28.5,Non - Veg,Market,Not in college,Indian,₹200-₹250,6pm-7pm
+23112314,Smaira Pandita,28.5,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112316,Tarit Kumar Singh,28.5,Veg,College ,Cafe by the Valley,Chinese,₹150-₹200,7pm-8pm
+23112317,Urvi Saran,28.5,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,Past 10pm
+23112318,Veda Yogesh Rane,28.5,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,6pm-7pm
+23112320,Abhimanyu Sharma,28.5,Non - Veg,Market,Not in college,Indian,₹200-₹250,Past Midnight
+23112321,Kratik Lodha,28.5,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,9pm-10pm
+23112301,Arghya Basu,29.5,Veg,College ,Cafe by the Valley,Chinese,₹50-₹100,Past 10pm
+23112302,Aryan Singhal,29.5,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112303,Avinash Ruthvik,29.5,Non - Veg,College ,Chopsticks,Italian,₹100-₹150,9pm-10pm
+23112305,Harshil Mishra,29.5,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,8pm-9pm
+23112306,Juhi Rathore,29.5,Non - Veg,College ,Chopsticks,Indian,₹50-₹100,9pm-10pm
+23112307,Anjali Kakde,29.5,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112308,Mehuli Dutta,29.5,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,9pm-10pm
+23112310,Vishal Verma,29.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112312,Shruti Mishra,29.5,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,29.5,Veg,College ,Steaming Mugs ,Chinese,₹100-₹150,Past 10pm
+23112314,Smaira Pandita,29.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112316,Tarit Kumar Singh,29.5,Veg,College ,Cafe Concerto,Indian,₹200-₹250,9pm-10pm
+23112317,Urvi Saran,29.5,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112318,Veda Yogesh Rane,29.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112320,Abhimanyu Sharma,29.5,Non - Veg,College ,Cafe by the Valley,Italian,₹50-₹100,9pm-10pm
+23112321,Kratik Lodha,29.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,9pm-10pm
+23112301,Arghya Basu,30.5,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,Past 10pm
+23112302,Aryan Singhal,30.5,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,6pm-7pm
+23112303,Avinash Ruthvik,30.5,Veg,Home-Cooked,Not in college,Indian,₹150-₹200,7pm-8pm
+23112305,Harshil Mishra,30.5,Non - Veg,College ,Chopsticks,Italian,₹50-₹100,8pm-9pm
+23112306,Juhi Rathore,30.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,Past Midnight
+23112307,Anjali Kakde,30.5,Non - Veg,College ,Cafe by the Valley,Italian,₹200-₹250,7pm-8pm
+23112308,Mehuli Dutta,30.5,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,8pm-9pm
+23112310,Vishal Verma,30.5,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,6pm-7pm
+23112312,Shruti Mishra,30.5,Non - Veg,Market,Not in college,Indian,₹100-₹150,8pm-9pm
+23112313,Shubhalaxmi Sagare,30.5,Veg,College ,Steaming Mugs ,Indian,₹100-₹150,6pm-7pm
+23112314,Smaira Pandita,30.5,Veg,College ,Chopsticks,Chinese,₹50-₹100,8pm-9pm
+23112316,Tarit Kumar Singh,30.5,Non - Veg,Market,Not in college,Indian,₹50-₹100,8pm-9pm
+23112317,Urvi Saran,30.5,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112318,Veda Yogesh Rane,30.5,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,6pm-7pm
+23112320,Abhimanyu Sharma,30.5,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112321,Kratik Lodha,30.5,Non - Veg,College ,Cafe by the Valley,Indian,₹100-₹150,7pm-8pm
+23112301,Arghya Basu,1.6,Non - Veg,Market,Not in college,Indian,₹50-₹100,Past 10pm
+23112302,Aryan Singhal,1.6,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,6pm-7pm
+23112303,Avinash Ruthvik,1.6,Veg,College ,Cafe by the Valley,Chinese,₹200-₹250,Past Midnight
+23112305,Harshil Mishra,1.6,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,9pm-10pm
+23112306,Juhi Rathore,1.6,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,Past 10pm
+23112307,Anjali Kakde,1.6,Veg,Home-Cooked,Not in college,Indian,₹100-₹150,8pm-9pm
+23112308,Mehuli Dutta,1.6,Non - Veg,College ,Cafe by the Valley,Italian,₹100-₹150,9pm-10pm
+23112310,Vishal Verma,1.6,Veg,College ,Cafe by the Valley,Indian,₹200-₹250,8pm-9pm
+23112312,Shruti Mishra,1.6,Veg,College ,Cafe by the Valley,Indian,₹100-₹150,9pm-10pm
+23112313,Shubhalaxmi Sagare,1.6,Non - Veg,Market,Not in college,Indian,₹150-₹200,9pm-10pm
+23112314,Smaira Pandita,1.6,Veg,College ,Cafe by the Valley,Indian,₹50-₹100,9pm-10pm
+23112316,Tarit Kumar Singh,1.6,Veg,College ,Cafe by the Valley,Chinese,₹100-₹150,9pm-10pm
+23112317,Urvi Saran,1.6,Non - Veg,Market,Not in college,Indian,₹200-₹250,9pm-10pm
+23112318,Veda Yogesh Rane,1.6,Veg,College ,Cafe by the Valley,Indian,₹150-₹200,Past 10pm
+23112320,Abhimanyu Sharma,1.6,Veg,College ,Chopsticks,Chinese,₹50-₹100,7pm-8pm
+23112321,Kratik Lodha,1.6,Veg,Home-Cooked,Not in college,Indian,₹50-₹100,9pm-10pm
